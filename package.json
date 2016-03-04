@@ -1,0 +1,23 @@
+{
+  "name": "@safari137/timestamp-microservice",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safari137/timestamp-microservice.git"
+  },
+  "author": "David Dill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safari137/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/safari137/timestamp-microservice#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongodb": "^2.1.7"
+  }
+}
