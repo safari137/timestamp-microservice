@@ -8,6 +8,7 @@ All data sent from this API will be in JSON format.
 
 
 Example usage:
+
 https://[application].com/December%2015,%202015
 
 https://[application].com/1450137600
