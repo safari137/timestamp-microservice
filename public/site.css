@@ -1,0 +1,19 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.example {
+    color: red;
+    background: #ddd;
+    max-width: 550px;
+    margin-top: 5px;
+}
+
+.stories {
+    font-size: 20px;
+}
+
+.stories li {
+    margin-top: 5px;
+}

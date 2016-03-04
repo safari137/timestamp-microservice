@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/safari137/timestamp-microservice#readme",
   "dependencies": {
+    "ejs": "^2.4.1",
     "express": "^4.13.4",
     "mongodb": "^2.1.7"
   }
